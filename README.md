@@ -1,6 +1,6 @@
 I'm A MasterMind, proponent, supporter in the programming language. 
 
-# The Ibis Programing Language, is the most powerful language as the Perl, Python, Ruby, PHP, and other type of programming language.
+# The Ibis Programing Language, is the most powerful language as the Perl, Python, Ruby, PHP, and other type of programming language. The Ibis Programming Language have two implementation, like as the command line interpreter, like as the HTML.
 
 <text>The syntax's of the Ibis Programming Language, are for the aim to take  with construction of frame like as the HTML, but is most powerful as the HTML, this types of programming functioned with IBB and SSB.
 
